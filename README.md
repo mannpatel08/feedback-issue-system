@@ -69,4 +69,6 @@ This project is ideal for:
 # 📷 Output Preview Screenshot  
 *(Add your project's UI screenshot here)*  
 Example:  
+   ![Screenshot 2025-12-04 172716](https://github.com/user-attachments/assets/91ffbb05-9e84-453e-9739-3efa5e20fe57)
+
     
